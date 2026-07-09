@@ -1,24 +1,81 @@
-# Student-Management-System
-The Student Management System is a menu-driven Python application developed using nested dictionaries. It helps manage student records efficiently by allowing users to add, view, search, update, delete, and sort student information. The project also includes input validation and password-protected access to ensure data integrity and security.
-Features
-Password-protected login system
-Add new student records
-Display all student records in a formatted layout
-Search students by Student ID
-Update existing student details
-Delete student records
-Validate phone numbers and age before storing data
-Store subject-wise marks using nested dictionaries
-Calculate total marks, average, and grade
-Display topper and lowest scorer
-Sort students by ID, name, age, or marks
-Count the total number of students
-User-friendly menu-driven interface
-Technologies Used
-Python 3
-Dictionaries
-Nested Dictionaries
-Functions
-Loops
-Conditional Statements
-File Handling (for password storage)
+# 🎓 Student Management System
+
+A menu-driven Student Management System developed in Python using nested dictionaries. The application helps manage student records efficiently with features like adding, updating, deleting, searching, sorting, and displaying student information. It also includes password protection and input validation for secure and reliable data management.
+
+---
+
+## 🚀 Features
+
+* Password-protected login
+* Add student records
+* Display all students
+* Search student by ID
+* Update student details
+* Delete student records
+* Sort students by ID, Name, Age, and Marks
+* Calculate total, average, and grade
+* Display topper and lowest scorer
+* Count total students
+* Validate phone number and age
+* Menu-driven interface
+
+---
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Dictionaries
+* Nested Dictionaries
+* Functions
+* Loops
+* Conditional Statements
+* File Handling
+
+---
+
+## 📂 Project Structure
+
+```text
+Student-Management-System/
+│── main.py
+│── password.txt
+│── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Open the project folder.
+3. Run the program:
+
+```bash
+python main.py
+```
+
+4. Create a password on the first run.
+5. Log in using the saved password.
+6. Use the menu to manage student records.
+
+---
+
+## 📖 Concepts Used
+
+* CRUD Operations (Create, Read, Update, Delete)
+* Dictionary Operations
+* Nested Dictionaries
+* Input Validation
+* Searching
+* Sorting
+* Menu-Driven Programming
+* File Handling
+
+---
+
+
+---
+
+## 👨‍💻 Author
+
+**Avula Rohith**
